@@ -1,0 +1,5 @@
+venv
+.idea
+google_photo
+*.log
+__pycache__
